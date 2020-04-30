@@ -1,0 +1,9 @@
+/Users/jiyuan/Work/40-代码/20-PiggyMetrics/piggymetrics/auth-service/src/main/java/com/piggymetrics/auth/config/OAuth2AuthorizationConfig.java
+/Users/jiyuan/Work/40-代码/20-PiggyMetrics/piggymetrics/auth-service/src/main/java/com/piggymetrics/auth/config/WebSecurityConfig.java
+/Users/jiyuan/Work/40-代码/20-PiggyMetrics/piggymetrics/auth-service/src/main/java/com/piggymetrics/auth/service/UserService.java
+/Users/jiyuan/Work/40-代码/20-PiggyMetrics/piggymetrics/auth-service/src/main/java/com/piggymetrics/auth/service/security/MongoUserDetailsService.java
+/Users/jiyuan/Work/40-代码/20-PiggyMetrics/piggymetrics/auth-service/src/main/java/com/piggymetrics/auth/repository/UserRepository.java
+/Users/jiyuan/Work/40-代码/20-PiggyMetrics/piggymetrics/auth-service/src/main/java/com/piggymetrics/auth/domain/User.java
+/Users/jiyuan/Work/40-代码/20-PiggyMetrics/piggymetrics/auth-service/src/main/java/com/piggymetrics/auth/AuthApplication.java
+/Users/jiyuan/Work/40-代码/20-PiggyMetrics/piggymetrics/auth-service/src/main/java/com/piggymetrics/auth/controller/UserController.java
+/Users/jiyuan/Work/40-代码/20-PiggyMetrics/piggymetrics/auth-service/src/main/java/com/piggymetrics/auth/service/UserServiceImpl.java
