@@ -3,7 +3,14 @@ spring:
     name: notification-service
   cloud:
     config:
-      uri: http://localhost:8888
-      fail-fast: true
-      password: password
-      username: user
+#      uri: http://localhost:8888
+#      fail-fast: true
+#      password: password
+#      username: user
+    nacos:
+      discovery:
+        server-addr: 47.111.180.200:8848
+      config:
+        server-addr: 47.111.180.200:8848
+        group: DEFAULT_GROUP
+        file-extension: yml

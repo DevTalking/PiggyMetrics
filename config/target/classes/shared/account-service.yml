@@ -10,17 +10,21 @@ security:
 spring:
   data:
     mongodb:
-      host: account-mongodb
+      host: 47.97.101.159
       username: user
       password: password
       database: piggymetrics
       port: 27017
+  rabbitmq:
+    host: 47.111.180.200
+    username: guest
+    password: guest
 
 server:
   servlet:
     context-path: /accounts
   port: 6000
 
-feign:
-  hystrix:
-    enabled: true
+#feign:
+#  hystrix:
+#    enabled: true

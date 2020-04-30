@@ -1,5 +1,5 @@
-/Users/jiyuan/Work/40-代码/20-PiggyMetrics/piggymetrics/auth-service/src/test/java/com/piggymetrics/auth/service/security/MongoUserDetailsServiceTest.java
-/Users/jiyuan/Work/40-代码/20-PiggyMetrics/piggymetrics/auth-service/src/test/java/com/piggymetrics/auth/repository/UserRepositoryTest.java
-/Users/jiyuan/Work/40-代码/20-PiggyMetrics/piggymetrics/auth-service/src/test/java/com/piggymetrics/auth/controller/UserControllerTest.java
-/Users/jiyuan/Work/40-代码/20-PiggyMetrics/piggymetrics/auth-service/src/test/java/com/piggymetrics/auth/AuthServiceApplicationTests.java
-/Users/jiyuan/Work/40-代码/20-PiggyMetrics/piggymetrics/auth-service/src/test/java/com/piggymetrics/auth/service/UserServiceTest.java
+/Users/jiyuan/Work/40-代码/20-PiggyMetrics/PiggyMetrics/auth-service/src/test/java/com/piggymetrics/auth/AuthServiceApplicationTests.java
+/Users/jiyuan/Work/40-代码/20-PiggyMetrics/PiggyMetrics/auth-service/src/test/java/com/piggymetrics/auth/service/UserServiceTest.java
+/Users/jiyuan/Work/40-代码/20-PiggyMetrics/PiggyMetrics/auth-service/src/test/java/com/piggymetrics/auth/repository/UserRepositoryTest.java
+/Users/jiyuan/Work/40-代码/20-PiggyMetrics/PiggyMetrics/auth-service/src/test/java/com/piggymetrics/auth/controller/UserControllerTest.java
+/Users/jiyuan/Work/40-代码/20-PiggyMetrics/PiggyMetrics/auth-service/src/test/java/com/piggymetrics/auth/service/security/MongoUserDetailsServiceTest.java

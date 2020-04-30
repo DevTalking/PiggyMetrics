@@ -1,0 +1,5 @@
+ahas:
+  namespace: default
+
+project:
+  name: account-service

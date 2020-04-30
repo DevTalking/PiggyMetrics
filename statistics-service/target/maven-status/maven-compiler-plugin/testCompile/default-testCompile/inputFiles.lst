@@ -1,6 +1,6 @@
-/Users/jiyuan/Work/40-代码/20-PiggyMetrics/piggymetrics/statistics-service/src/test/java/com/piggymetrics/statistics/service/ExchangeRatesServiceImplTest.java
-/Users/jiyuan/Work/40-代码/20-PiggyMetrics/piggymetrics/statistics-service/src/test/java/com/piggymetrics/statistics/repository/DataPointRepositoryTest.java
-/Users/jiyuan/Work/40-代码/20-PiggyMetrics/piggymetrics/statistics-service/src/test/java/com/piggymetrics/statistics/client/ExchangeRatesClientTest.java
-/Users/jiyuan/Work/40-代码/20-PiggyMetrics/piggymetrics/statistics-service/src/test/java/com/piggymetrics/statistics/StatisticsServiceApplicationTests.java
-/Users/jiyuan/Work/40-代码/20-PiggyMetrics/piggymetrics/statistics-service/src/test/java/com/piggymetrics/statistics/controller/StatisticsControllerTest.java
-/Users/jiyuan/Work/40-代码/20-PiggyMetrics/piggymetrics/statistics-service/src/test/java/com/piggymetrics/statistics/service/StatisticsServiceImplTest.java
+/Users/jiyuan/Work/40-代码/20-PiggyMetrics/PiggyMetrics/statistics-service/src/test/java/com/piggymetrics/statistics/repository/DataPointRepositoryTest.java
+/Users/jiyuan/Work/40-代码/20-PiggyMetrics/PiggyMetrics/statistics-service/src/test/java/com/piggymetrics/statistics/service/ExchangeRatesServiceImplTest.java
+/Users/jiyuan/Work/40-代码/20-PiggyMetrics/PiggyMetrics/statistics-service/src/test/java/com/piggymetrics/statistics/controller/StatisticsControllerTest.java
+/Users/jiyuan/Work/40-代码/20-PiggyMetrics/PiggyMetrics/statistics-service/src/test/java/com/piggymetrics/statistics/service/StatisticsServiceImplTest.java
+/Users/jiyuan/Work/40-代码/20-PiggyMetrics/PiggyMetrics/statistics-service/src/test/java/com/piggymetrics/statistics/client/ExchangeRatesClientTest.java
+/Users/jiyuan/Work/40-代码/20-PiggyMetrics/PiggyMetrics/statistics-service/src/test/java/com/piggymetrics/statistics/StatisticsServiceApplicationTests.java
