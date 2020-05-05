@@ -2,7 +2,7 @@ spring:
   application:
     name: notification-service
   cloud:
-    config:
+#    config:
 #      uri: http://localhost:8888
 #      fail-fast: true
 #      password: password
@@ -14,3 +14,10 @@ spring:
         server-addr: 47.111.180.200:8848
         group: DEFAULT_GROUP
         file-extension: yml
+
+security:
+  oauth2:
+    resource:
+      service-id: auth-service
+      user-info-uri: uaa/users/current
+      loadBalanced: true

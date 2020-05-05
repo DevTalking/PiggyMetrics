@@ -15,5 +15,11 @@ spring:
         group: DEFAULT_GROUP
         file-extension: yml
 
-server:
-  port: 7000
+#server:
+#  port: 7000
+security:
+  oauth2:
+    resource:
+      service-id: auth-service
+      user-info-uri: uaa/users/current
+      loadBalanced: true

@@ -16,3 +16,9 @@ spring:
         file-extension: yml
 #server:
 #  port: 6000
+security:
+  oauth2:
+    resource:
+      service-id: auth-service
+      user-info-uri: uaa/users/current
+      loadBalanced: true
